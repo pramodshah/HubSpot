@@ -1,0 +1,50 @@
+ .bg1 {
+    background-image: url("https://www.hubspot.com/hubfs/53/assets/hubspot.com/home/2019/garage.svg");
+    height: 500px;;
+    width:400px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+
+  .bg2 {
+    background-image: url("https://www.hubspot.com/hubfs/53/assets/hubspot.com/home/2019/startup.svg");
+    height: 500px;;
+    width:400px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+  .bg3 {
+    background-image: url("https://www.hubspot.com/hubfs/53/assets/hubspot.com/home/2019/enterprise.svg");
+    height: 500px;;
+    width:400px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+
+  .bg1 {
+    float: left;
+    
+    
+  }
+  .bg2 {
+    float: left;
+    
+  }
+  .bg3{
+    float: left;
+    
+    
+  }
+  
+  /* Clear floats after image containers */
+  .image-hugspot::after {
+    content: "";
+    clear: both;
+    display: table;
+  }

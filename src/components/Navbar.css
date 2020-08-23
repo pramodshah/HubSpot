@@ -1,0 +1,19 @@
+a.nav-link{
+  padding:0 0 20px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:1.3rem;
+  color:black;
+}
+ul a:hover {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+
+
+
+a.btn:hover {
+  background-color: rgb(255,122,89)!important;
+  
+  
+      
+  
+}
