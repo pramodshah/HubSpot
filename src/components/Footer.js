@@ -65,7 +65,7 @@ class  Footer extends Component {
                     <div className="row"> 
                     <div className="footer-info1">
 
-                            <a href="#" className="btn">Contact Hubsopt Support</a>
+                            <a href="#" className="btn" style={{backgroundColor:"#FF7A59"}}>Contact Hubsopt Support</a>
                         </div>
 
 
