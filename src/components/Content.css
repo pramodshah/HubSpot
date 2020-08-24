@@ -1,0 +1,14 @@
+.card {
+    transition: transform .5s ease;
+  }
+  
+  /* [3] Finally, transforming the image when container gets hovered */
+  .card:hover{
+    transform: scale(1.02);
+  }
+
+  .my-card{
+      padding:20%;
+  }
+
+  

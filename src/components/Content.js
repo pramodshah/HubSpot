@@ -17,7 +17,7 @@ class  Content extends Component {
 
 
 
-                <div class="col s12 m6 l4">
+                <div class="col s12 m6 l4 my-card">
                     <div class="card" style={{marginLeft:"10%",marginRight:"10%"}}>
                         
                         <div class="card-content" style={{padding:"30px"}}>
@@ -50,7 +50,7 @@ class  Content extends Component {
                 </div>
 
 
-                <div class="col s12 m6 l4">
+                <div class="col s12 m6 l4 my-card">
                     <div class="card" style={{marginLeft:"10%",marginRight:"10%"}}>
                         
                         <div class="card-content" style={{padding:"30px"}}>
@@ -83,7 +83,7 @@ class  Content extends Component {
                 </div>
 
 
-                <div class="col s12 m6 l4">
+                <div class="col s12 m6 l4 my-card">
                     <div class="card" style={{marginLeft:"10%",marginRight:"10%"}}>
                         
                         <div class="card-content" style={{padding:"30px"}}>
@@ -115,8 +115,8 @@ class  Content extends Component {
                     </div>
                 </div>
 
-                <div class="col s12 m6 l4">
-                    <div class="card" style={{marginLeft:"10%",marginRight:"10%"}}>
+                <div class="col s12 m6 l4 my-card">
+                    <div class="card" style={{marginLeft:"10%",marginRight:"10%"}} >
                         
                         <div class="card-content" style={{padding:"30px"}}>
                             <p style={{fontSize:"1.4rem"}}>Sales Hub</p>
@@ -150,7 +150,7 @@ class  Content extends Component {
                     </div>
                 </div>
 
-                <div class="col s12 m6 l4">
+                <div class="col s12 m6 l4 my-card">
                     <div class="card" style={{marginLeft:"10%",marginRight:"10%"}}>
                         
                         <div class="card-content" style={{padding:"30px"}}>
