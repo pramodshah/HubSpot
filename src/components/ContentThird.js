@@ -24,7 +24,7 @@ class  ContentThird extends Component {
                                     
                                 </div>
                                 <div className="col s6">
-                                    <img class="hsg-deferred hsg-deferred-loaded" data-src="//cdn2.hubspot.net/hubfs/53/assets/hubspot.com/_style-guide/sword-sprocket/Variation-3@2x.png" alt="Smiling Person" src="//cdn2.hubspot.net/hubfs/53/assets/hubspot.com/_style-guide/sword-sprocket/Variation-3@2x.png" data-was-processed="true" style={{width:"350px",height:"400px",marginLeft:"30%"}}>
+                                    <img className="hsg-deferred hsg-deferred-loaded" data-src="//cdn2.hubspot.net/hubfs/53/assets/hubspot.com/_style-guide/sword-sprocket/Variation-3@2x.png" alt="Smiling Person" src="//cdn2.hubspot.net/hubfs/53/assets/hubspot.com/_style-guide/sword-sprocket/Variation-3@2x.png" data-was-processed="true" style={{width:"350px",height:"400px",marginLeft:"30%"}}>
                                     </img>
                                 </div>
                         </div>

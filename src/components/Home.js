@@ -8,8 +8,8 @@ class  Home extends Component{
             <div className="Home">
 
                 <nav  style={{backgroundColor:"white", height:"75px",textDecoration:"none"}}>
-                <div class="nav-wrapper">
-                    <a href="#" class="brand-logo">HubSpot</a>
+                <div className="nav-wrapper">
+                    <a href="#" className="brand-logo">HubSpot</a>
                     <ul id="nav-mobile" class="right">
                         <li style={{paddingLeft:"5px",paddingRight:"5px"}}><a className="nav-link" href="sass.html">Software</a></li>
                         <li style={{paddingLeft:"5px",paddingRight:"5px"}}><a className="nav-link"href="badges.html">Priceing</a></li>
