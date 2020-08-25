@@ -7,6 +7,7 @@ import Content from './components/Content';
 import ContentSecond from './components/ContentSecond';
 import ContentThird from './components/ContentThird';
 import Footer from './components/Footer';
+import ContentFourth from './components/ContentFourth';
 
 
 
@@ -17,7 +18,9 @@ function App() {
       <Home />
       <ContentSecond/>
       <Content />
+      <ContentFourth />
       <ContentThird/>
+      
       <Footer />
 
       
